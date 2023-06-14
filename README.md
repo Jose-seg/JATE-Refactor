@@ -11,5 +11,5 @@ The purpose of the refactor is to teach us the complexity of progressive web app
 ![image](https://github.com/Jose-seg/Backend-E-commerce/assets/122575280/f4a8b962-7ae3-4603-9a69-e45211f443ba)
 
 ## Links
-https://github.com/Jose-seg/Text-editor-Refactor
+https://github.com/Jose-seg/JATE-Refactor
 https://jate-refactor.herokuapp.com/
